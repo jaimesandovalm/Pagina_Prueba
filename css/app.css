@@ -1,0 +1,26 @@
+body {
+
+    background-image: url('../img/bg2.jpg');
+}
+
+#cabecera {
+    border: 1px solid rgb;
+    opacity: .6;
+    background-color: rgb(8, 0, 59);
+}
+
+#head-lg {
+    color: rgb(160, 246, 245);
+}
+
+#content-center {
+    background-color: rgba(8, 0, 59, .8);
+    border: 3px solid rgb(160, 228, 240);
+    border-radius: 10px;
+    color: rgb(160, 228, 240);
+    text-shadow: 0 0 40px rgb(160, 228, 240);
+}
+
+#footer {
+color: rgb(160, 228, 240);
+}
